@@ -6,9 +6,9 @@
  *
  *  Copyright 2019 ritchierich
  *
- *	Credits:
+ *  Credits:
  *	Special thanks to Peter Gulyas (@guyeeba) for the original driver integrating a NUT server with HE
- *  Special thanks to Stephan Hackett for testing this driver
+ *	Special thanks to Stephan Hackett for testing this driver
  * 
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
